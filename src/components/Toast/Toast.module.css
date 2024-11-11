@@ -1,0 +1,18 @@
+.toast {
+  width: 242px;
+  height: 52px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 16px 50px 0 rgba(0, 0, 0, 0.24);
+  background: #fff;
+  font-size: 15px;
+  letter-spacing: -0.04em;
+  color: #323749;
+
+  img {
+    cursor: pointer;
+  }
+}

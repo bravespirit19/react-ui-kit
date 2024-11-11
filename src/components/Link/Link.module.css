@@ -1,0 +1,22 @@
+a {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  color: #00ae1c;
+  cursor: pointer;
+}
+
+.disabled {
+  color: #575d58;
+  cursor: default;
+}
+
+.hovered {
+  text-decoration: underline;
+}
+
+.pressed {
+  text-decoration: underline;
+  color: #0cd52b;
+}

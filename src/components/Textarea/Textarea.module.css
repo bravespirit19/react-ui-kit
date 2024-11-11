@@ -1,0 +1,21 @@
+.textarea_wrap {
+  width: 456px;
+  border-bottom: 1px solid #737373;
+}
+
+.textarea {
+  width: 100%;
+  font-size: 15px;
+  line-height: 133%;
+  letter-spacing: -0.02em;
+  color: #323749;
+  resize: none;
+}
+
+.textarea_title {
+  font-weight: 700;
+  font-size: 10px;
+  letter-spacing: -0.02em;
+  color: #323749;
+  margin: 0 0 5px 0;
+}
